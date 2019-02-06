@@ -1,6 +1,6 @@
 # Öröklés gyakorló feladat
 
-> Az előző gyakorló feladatra épül!
+> Az [előző](https://github.com/Bence886/Szoftvertervez-s-s-fejleszt-s-II./tree/master/Gyakorlo_Feladatok/Labor_1_OOP) gyakorló feladatra épül!
 
 A **Dolgozó** osztály fizetés metódusa legyen _virtual_ maga az osztály pedig _abstract_!
 
