@@ -1,1 +1,1 @@
-# Szoftvertervez-s-s-fejleszt-s-II.
+# Szoftvertervezés és fejlesztés II.
